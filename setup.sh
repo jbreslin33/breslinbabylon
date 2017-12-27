@@ -5,6 +5,7 @@ sudo apt-get install -y nodejs
 sudo npm install --save socket.io
 
 sudo npm install express --save
+sudo npm install --save pg-promise
 
 
 
