@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "express": "^4.16.2",
+    "pg-promise": "^7.3.2",
     "socket.io": "^1.7.4"
   },
   "engines": {
